@@ -1,6 +1,5 @@
 Aditya Parihar
 B.E. C.S.E.
-RPA (Robotic Process Automation)
 
 <!---
 adityaparihar/adityaparihar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
